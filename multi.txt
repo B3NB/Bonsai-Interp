@@ -1,0 +1,26 @@
+inc 0
+inc 0
+inc 1
+inc 1
+inc 1
+tst 0
+jmp 8
+jmp22
+dec 0
+tst 1
+jmp12
+jmp16
+dec 1
+inc 2
+inc 3
+jmp 9
+tst 2
+jmp19
+jmp 5
+dec 2
+inc 1
+jmp16
+prt 0
+prt 1
+prt 2
+prt 3
