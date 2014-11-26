@@ -1,2 +1,2 @@
 all:
-	cl /EHsc bonsai.c
+	gcc -std=c11 bonsai.c -o bonsai
